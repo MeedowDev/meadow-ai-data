@@ -1,4 +1,4 @@
-Crop,Min Altitude (m),Max Altitude (m),Min Rainfall (mm/year),Max Rainfall (mm/year),Min Temperature (°C),Max Temperature (°C)
+Crop,Min Altitude (m),Max Altitude (m),Min Rainfall (mm/year),Max Rainfall (mm/year),Min Temperature (C),Max Temperature (C)
 Arrowroot_Taro,0,1500,1500,3000,21,30
 Arrowroot_Chinese Arrowhead,0,1500,1500,3000,21,30
 Arrowroot_Dasheen,0,1500,1500,3000,21,30
