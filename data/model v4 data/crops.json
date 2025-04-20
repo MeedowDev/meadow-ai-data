@@ -1,0 +1,128 @@
+{
+	"Maize": {
+		"variety": "H614",
+		"region": "Trans-Nzoia, Kenya",
+		"coordinates": [-0.9711, 34.9586],
+		"planting_season_month": 4,
+		"duration_days": 90
+	},
+	"Sorghum": {
+		"variety": "Serena",
+		"region": "Eastern Kenya",
+		"coordinates": [-1.4921, 37.0033],
+		"planting_season_month": 4,
+		"duration_days": 115
+	},
+	"Millet": {
+		"variety": "Finger millet",
+		"region": "Western Kenya",
+		"coordinates": [0.5143, 34.556],
+		"planting_season_month": 4,
+		"duration_days": 100
+	},
+	"Beans": {
+		"variety": "Rosecoco",
+		"region": "Central Kenya",
+		"coordinates": [-0.4167, 36.95],
+		"planting_season_month": 4,
+		"duration_days": 60
+	},
+	"Cowpeas": {
+		"variety": "K80",
+		"region": "Eastern Kenya",
+		"coordinates": [-1.2921, 37.0033],
+		"planting_season_month": 4,
+		"duration_days": 100
+	},
+	"Green Grams": {
+		"variety": "N26",
+		"region": "Eastern Kenya",
+		"coordinates": [-1.2921, 37.0033],
+		"planting_season_month": 4,
+		"duration_days": 60
+	},
+	"Pigeon Peas": {
+		"variety": "ICEAP 00557",
+		"region": "Coastal Kenya",
+		"coordinates": [-3.2296, 40.1],
+		"planting_season_month": 5,
+		"duration_days": 120
+	},
+	"Irish Potatoes": {
+		"variety": "Shangi",
+		"region": "Nyandarua, Kenya",
+		"coordinates": [-0.1833, 36.3667],
+		"planting_season_month": 4,
+		"duration_days": 90
+	},
+	"Sweet Potatoes": {
+		"variety": "KSP20",
+		"region": "Western Kenya",
+		"coordinates": [0.5143, 34.556],
+		"planting_season_month": 4,
+		"duration_days": 120
+	},
+	"Mangoes": {
+		"variety": "Apple Mango",
+		"region": "Makueni, Kenya",
+		"coordinates": [-1.8046, 37.62],
+		"planting_season_month": 4,
+		"duration_days": 365
+	},
+	"Avocados": {
+		"variety": "Hass",
+		"region": "Murang'a, Kenya",
+		"coordinates": [-0.7167, 37.15],
+		"planting_season_month": 4,
+		"duration_days": 730
+	},
+	"Bananas": {
+		"variety": "Williams",
+		"region": "Kisii, Kenya",
+		"coordinates": [-0.6833, 34.7667],
+		"planting_season_month": 4,
+		"duration_days": 365
+	},
+	"Pineapples": {
+		"variety": "Smooth Cayenne",
+		"region": "Thika, Kenya",
+		"coordinates": [-1.0333, 37.0667],
+		"planting_season_month": 4,
+		"duration_days": 540
+	},
+	"Watermelons": {
+		"variety": "Sugar Baby",
+		"region": "Eastern Kenya",
+		"coordinates": [-1.2921, 37.0033],
+		"planting_season_month": 4,
+		"duration_days": 90
+	},
+	"Kales": {
+		"variety": "Sukuma Wiki",
+		"region": "Central Kenya",
+		"coordinates": [-0.4167, 36.95],
+		"planting_season_month": 4,
+		"duration_days": 60
+	},
+	"Cabbages": {
+		"variety": "Gloria F1",
+		"region": "Central Kenya",
+		"coordinates": [-0.4167, 36.95],
+		"planting_season_month": 4,
+		"duration_days": 90
+	},
+	"Cassava": {
+		"variety": "KME 1",
+		"region": "Coastal Kenya",
+		"coordinates": [-3.2296, 40.1],
+		"planting_season_month": 4,
+		"duration_days": 365
+	},
+	"Onions": {
+		"variety": "Red Creole",
+		"region": "Central Kenya",
+		"coordinates": [-0.4167, 36.95],
+		"planting_season_month": 4,
+		"duration_days": 90
+	}
+}
